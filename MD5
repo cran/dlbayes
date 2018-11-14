@@ -1,0 +1,14 @@
+738650994606caf38fa94752ada6119a *DESCRIPTION
+a0f7fdd60ec93dd555539a2d2ccbe82d *LICENSE
+232a9bb3bd9f0b02c3bbb4b57c2b780d *NAMESPACE
+3fe9f5c06a3e47cb7e27b3e501d650e6 *R/dlanalysis.R
+14955b424b3752999a62f746f555116f *R/dlhyper.R
+9c8dd7504f30e92c7feb62ea27dd2ff8 *R/dlmain.R
+cc8fef9d51b436252e6d71a8881875c3 *R/dlprior.R
+3defe0d80b54fa2c60fedcacbed6e13f *R/dlvs.R
+ccf97e0006dec5ee6459b904b5e92da4 *README.md
+db4cb8afd5b0bbc917b1419b384cd421 *man/dl.Rd
+6be7aa3cd697452cdf1c4102b0ffb71c *man/dlanalysis.Rd
+cadb787ec0ebf1f344fd11a01cf3bebf *man/dlhyper.Rd
+c703903773b5d4c2fdd62e321734864a *man/dlprior.Rd
+497bb0fa8dcc368f4e0a35226ef7cfc9 *man/dlvs.Rd
